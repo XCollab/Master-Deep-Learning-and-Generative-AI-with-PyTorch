@@ -1,11 +1,11 @@
-# Master Deep Learning and Generative AI with PyTorch in Hindi  
+# Master Deep Learning and Generative AI with PyTorch 
 
-Welcome to the repository for **"Master Deep Learning and Generative AI with PyTorch in Hindi"**. This repository serves as a structured learning path covering fundamental to advanced deep learning concepts using PyTorch.
+Welcome to the repository for **"Master Deep Learning and Generative AI with PyTorch"**. This repository serves as a structured learning path covering fundamental to advanced deep learning concepts using PyTorch.
 
 ## 📚 Course Overview  
 
 This course covers the following topics in-depth:
-
+```python
 Master-Deep-Learning-and-Generative-AI-with-PyTorch/
 │── README.md
 │── torch/                   # Basics of PyTorch
@@ -19,7 +19,7 @@ Master-Deep-Learning-and-Generative-AI-with-PyTorch/
 │── gen_ai_models/            # Generative AI Models (GANs, VAEs, Transformers)
 │── transformers/             # Transformer Models (BERT, GPT, etc.)
 │── vision_transformer/       # Vision Transformer (ViT) Implementations
-
+```
 
 ### 🔥 Core Concepts (torch/)
 - Introduction to PyTorch tensors, operations, and autograd
